@@ -1,9 +1,9 @@
 [![License](https://img.shields.io/github/license/dimhotepus/bink_media_player.svg)](./LICENSE)
 [![CI](https://github.com/dimhotepus/bink_media_player/actions/workflows/msbuild.yml/badge.svg)](https://github.com/dimhotepus/bink_media_player/actions/workflows/msbuild.yml)
 
-# Bink Media Player
+# fork of Bink Media Player
 
-
+Created by https://github.com/dimhotepus
 Bink Media Player is an open-source Bink 1 media player example.
 
 To check out the source code locally, use `git clone`.
